@@ -1,3 +1,4 @@
 templates/*
+.trash/*
 .obsidian/*
-content/Campaign Content/00. DM notes/*
+Campaign Content\00. DM notes/*
