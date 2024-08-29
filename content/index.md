@@ -10,6 +10,6 @@ Or you can click the following
 # Character Pages
 
 - [[Eldritch Thunderclaw]]
-- [[Gil Astartes]]
+- [[Gill Astartes]]
 - [[Robert Finley]]
 - [[Scran]]
