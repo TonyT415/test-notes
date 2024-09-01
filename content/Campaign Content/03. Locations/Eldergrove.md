@@ -1,0 +1,1 @@
+A region highly dense in vegetation. An extremely large forest area. Much higher presence of fae flora and fauna.
