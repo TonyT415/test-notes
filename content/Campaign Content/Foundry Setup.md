@@ -16,5 +16,5 @@
 Anything that pertains to the function of the game will come from using the character sheets yourself or reading the tool tips for the different tools located on the right of your screens.
 
 >[!tip]
->That's about all you need to know/do lets go back to the home page: [[content/index|index]]
+>That's about all you need to know/do lets go back to the home page
 
