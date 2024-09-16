@@ -12,5 +12,5 @@ The following images are examples of the current styling of how guns might look 
 >Here is another example of pistols
 
 >[!example]
->![Sample2](https://static.wikia.nocookie.net/dishonoredvideogame/images/b/bc/The_Art_of_Dishonored_2-084.jpg/revision/latest/scale-to-width-down/1000?cb=20190618054911)
+>![[The_Art_of_Dishonored_2-084.webp]]
 >Another alternative set of concepts for firearms
