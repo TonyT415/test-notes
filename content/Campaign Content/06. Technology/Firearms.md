@@ -10,7 +10,3 @@ The following images are examples of the current styling of how guns might look 
 >[!example]
 >![[Pistols_Sample.png|500]]
 >Here is another example of pistols
-
->[!example]
->![[The_Art_of_Dishonored_2-084.png]]
->Another alternative set of concepts for firearms
