@@ -12,6 +12,10 @@
 	- Set them to whatever volume you think is comfortable
 	- I tuned the audio files i used so they are all the same approximate volume level from one another
 
+## Immersion Settings
+You can minimize the right handed tabs by clicking the arrow button to collapse it. This makes any tabs you click open as movable windows that you can pop out.
+
+Also you can press F11 on your keyboards to make foundry full screen, this makes your experience a little bit more immmersive.
 ## Final notes
 Anything that pertains to the function of the game will come from using the character sheets yourself or reading the tool tips for the different tools located on the right of your screens.
 
